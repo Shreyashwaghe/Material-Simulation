@@ -14,7 +14,8 @@ The Ratio of the area, we are approximating using the ratio of number of random 
 
 After 100 Random Samples
 
-![100 Samples done, Approx Pi is 3 400000](https://github.com/user-attachments/assets/a13e77e9-b1ec-4d9d-9931-95e29cb8dcb6)
+![100 Samples done, Approx Pi is 3 280000](https://github.com/user-attachments/assets/55b1bc47-2120-42db-80a5-bc2dd7d75983)
+
 
 After 100 Random Samples
 
