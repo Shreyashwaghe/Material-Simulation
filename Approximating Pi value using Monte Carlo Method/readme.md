@@ -9,6 +9,9 @@ Area of Square/ Area of qadrant = (side)^2 / (π * radius^2 /4) = 4/ π
 
 The Ratio of the area, we are approximating using the ratio of number of random points lying inside the Quadrant to the total number of points inside the square
 
+π ≈ 4 * Number of points inside Quadrant (ie Blue Dots) / Total number of points inside the Square (ie Blue + Red Dots)
+
+
 After 100 Random Samples
 
 ![100 Samples done, Approx Pi is 3 400000](https://github.com/user-attachments/assets/a13e77e9-b1ec-4d9d-9931-95e29cb8dcb6)
