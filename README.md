@@ -12,7 +12,7 @@ In the below video, we see a 3D Material with 5x5x5 structure, recrystallizing t
 https://github.com/user-attachments/assets/fae8b785-de01-4e25-9672-06dc9264e188
 
 
-Below are the results from our python code implementation of the paper titled "Three-Dimensional Monte Carlo Simulation of Recrystallization in Silver" DOI 10.1109/BCGIn.2011.110
+These results from our python code implementation of the paper titled "Three-Dimensional Monte Carlo Simulation of Recrystallization in Silver" DOI 10.1109/BCGIn.2011.110
 
 The Simulation was done for 100 Monte Carlo steps, on 10*10*10 highly strained simulated silver metal, as described in the paper. We have added the additional logic of considering the minimum grain orientation angle, from the 24 symmetric rotational operations in the cubic system, as described by Kocks et. al. (Kocks, Fred & Tomé, Carlos & Wenk, H-R. (2000). Texture and Anisotropy. Preferred Orientations in Polycrystals and Their Effect on Material Properties Book).
 
