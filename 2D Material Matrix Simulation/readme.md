@@ -5,7 +5,7 @@ Code to simulate recrystallization in a 2D material.
 https://github.com/user-attachments/assets/6e7ca9cb-ee2c-424c-9f95-cb79e4876e61
 
 
-Initial State, of a 2D highly deformed material. (Grains with 4 types of orientation)
+Initial State, of a 15*15 2D highly deformed material. (Grains with 4 types of orientation, shown by different colours)
 ![image](https://github.com/user-attachments/assets/27787d85-be28-4f00-82d5-f795b36ea181)
 
 After 100 Iterations (We see reduction in the total energy, caused due to recrystallization and grain growth process)
